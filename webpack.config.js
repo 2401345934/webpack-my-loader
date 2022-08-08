@@ -14,7 +14,7 @@ module.exports = {
                     {
                         loader: 'my-loader',
                         options: {
-                            flag: true,
+                            text: '二郎神',
                         },
                     },
                 ],
